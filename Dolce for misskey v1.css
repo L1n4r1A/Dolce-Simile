@@ -1,0 +1,262 @@
+/* Dolce for misskey
+	ver 1.0 2021/05/02
+	by L1n4r1A & RabiLuv */
+
+
+/*変数 使ってないけど宣言 */
+:root {
+	--choco: #714116;
+	--vanilla: #ede7d4;
+	--vanilla-light: #f6f4e1;
+	--berry: #e06766;
+	--berry-light: #e195a5;
+	--whipcream: #ffecf1;
+	--honey: #ffa500;
+	--soda: #95a5e1;
+	--melon: #95e1a5;
+}
+
+/* google fonts とか使えます。 */
+
+/* 以降Stylebotで書きまくったCSS */
+
+
+button.bghgjjyj._button.primary.full.button {
+  color: #714116;
+  background-color: #e06766;
+}
+
+span.havbbuyv.nowrap {
+  color: #e06766;
+}
+
+span.name {
+  color: #e195a5;
+}
+
+div.text {
+  color: #714116;
+  font-size: 1em !important;
+}
+
+div.columns {
+  background-color: #ede7d4;
+}
+
+article.article {
+  background-color: #f6f4e1;
+  font-size: 0.75rem;
+  padding: 10px 20px;
+}
+
+div.post {
+  background-color: #ede7d4;
+}
+
+a svg path {
+  color:#714116
+}
+
+a.active.item.index {
+  color: #e06766 !important;
+}
+
+div.fdidabkb.center {
+  background-color: #e06766 !important;
+  color: #ffecf1;
+}
+
+div.tabs._block {
+  background-color: #ede7d4;
+  color: #714116 !important;
+}
+
+button._button.tab {
+  color: #e195a5;
+}
+
+button._button.tab.active {
+  color: #e06766 !important;
+}
+
+div.renote {
+  background-color: #f6f4e1;
+}
+
+div.cmuxhskf._root {
+  background-color: #f6f4e1;
+}
+
+div.mkw-calendar._panel.widget {
+  background-color: #f6f4e1;
+  color: #714116;
+  padding: 5px 0px;
+}
+
+div.qglefbjs.reaction._panel.notification.max-width_500px.max-width_600px {
+  background-color: #f6f4e1;
+  color: #714116;
+  font-size: 0.5rem;
+}
+
+div.separator {
+  background-color: #ede7d4;
+  color: #e06766 !important;
+}
+
+div.qglefbjs.follow._panel.notification.max-width_500px.max-width_600px {
+  background-color: #ffecf1 ;
+  color: #714116;
+}
+
+div.title {
+  background-color: #e06766;
+  color: #ffecf1;
+}
+
+div.wrpstxzv.reply-to {
+  background-color: #f6f4e1;
+}
+
+button._button {
+  color: #714116;
+}
+
+button._textButton.edit {
+  color: #e06766;
+}
+
+
+
+button.kpoogebi._button.full {
+  background-color: #ffa500;
+  color: #ffecf1;
+}
+
+
+span.is-bot {
+  color: #95a5e1;
+}
+
+button.button._button {
+  color: #e06766;
+}
+
+div.mkw-digitalClock._monospace._panel.widget {
+  background-color: #f6f4e1;
+  color: #714116;
+  font-size: 1.5rem;
+  padding: 10px;
+}
+
+div.qglefbjs.followRequestAccepted._panel.notification.max-width_500px.max-width_600px {
+  background-color:#ffecf1;
+  color: #714116;
+}
+
+main.main._panel {
+  background-color: #ede7d4;
+}
+
+a.item._anime_bounce_standBy {
+  color: #714116;
+}
+
+div.ukygtjoj._block.scrollable.widget.max-width_380px {
+  background-color: #ede7d4;
+}
+
+div div p {
+  color: #714116;
+}
+
+div div header {
+  background-color: #f6f4e1;
+}
+
+button.submit._buttonPrimary{
+  background-color: #e06766;
+  color: #714116;
+}
+
+span.text-count {
+  color: #714116;
+}
+
+textarea.text {
+  background-color: #f6f4e1;
+  color: #714116;
+
+}
+
+div div footer {
+  background-color: #f6f4e1;
+}
+
+div.header {
+  background-color: #e06766;
+}
+
+div.rbusrurv {
+  background-color: #ede7d4 ;
+}
+
+button.main._button._formPanel._formClickable.center.primary {
+  background-color: #f6f4e1;
+}
+
+div div input {
+  background-color: #f6f4e1;
+  color: #714116;
+  border-radius: 10px;
+}
+
+div div textarea {
+  background-color: #f6f4e1;
+  color: #714116;
+  border-radius: 10px;
+}
+
+div.input._formPanel._formClickable {
+  background-color: #f6f4e1;
+  color: #714116;
+  border-radius: 10px;
+}
+
+div.main._formPanel._formClickable {
+  background-color: #f6f4e1;
+  color: #714116;
+  border-radius: 10px;
+}
+
+div span span {
+  color: #714116;
+}
+
+div._formLabel {
+  background-color: #e06766;
+  color: #ffecf1;
+}
+
+div._formPanel.lwjxoukj {
+  background-color: #f6f4e1;
+}
+
+a.main._button._formPanel._formClickable {
+  background-color: #f6f4e1;
+  color: #714116;
+}
+
+button.main._button._formPanel._formClickable.center {
+  background-color: #f6f4e1;
+  color: #e06766;
+}
+
+div.rrevdjwt.left._popup {
+  background-color: #f6f4e1;
+  color: #714116;
+}
+
+a._button.item {
+  color: #714116;
+}
