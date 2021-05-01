@@ -1,4 +1,4 @@
 # theme-Dolce
-MarinDeck theme "Dolce"
+kawaii Light Theme "Dolce"  
 
-THEME KAIHATSU TORIAEZU KAISHISITA.
+Create by L1n4r1A & RabiLuv
