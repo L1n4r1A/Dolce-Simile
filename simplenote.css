@@ -1,0 +1,23 @@
+/* Simplenote用Dolce CSS
+  https://simplenote.com */
+
+body{
+  background-color: #f6f4e1;
+  color: #714116;
+}
+
+#title {
+  color: #e06766;
+}
+
+h1 {
+  color: #e06766;
+}
+
+a{
+  color: #e06766;
+}
+
+span.logo {
+  display: none;
+}
